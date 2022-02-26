@@ -1,6 +1,7 @@
 # NewYorkTimes API
 
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+The NewYorkTimes APIs  (Application Programming Interfaces) allow you to programmatically access New York Times data for use in your own applications. Their goal is to facilitate a wide range of uses, from custom link lists to complex visualizations. Why just read the news when you can hack it?
+NYT currently has ten public APIs: Archive, Article Search, Books, Community, Geographic, Most Popular, Semantic, Times Newswire, TimesTags, and Top Stories.
 
 **Link to project:** http://recruiters-love-seeing-live-demos.com/
 
